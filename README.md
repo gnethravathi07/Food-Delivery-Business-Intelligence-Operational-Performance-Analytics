@@ -8,7 +8,7 @@ The project transforms food delivery data into actionable business insights by a
 
 ## 📊 Power BI Dashboard
 
-![Food Delivery Power BI Dashboard](Screenshots/FoodDelivery_Dashboard.png)
+<img width="1232" height="743" alt="image" src="https://github.com/user-attachments/assets/a501cde1-602c-4546-8b35-02311fa684fb" />
 
 *Interactive Power BI dashboard developed using Microsoft Fabric.*
 
